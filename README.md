@@ -1,3 +1,2 @@
-# Kalkulator Bunga Sederhana (Simple Interest Calculator)
-
-Proyek ini adalah bagian dari Proyek Akhir kursus Git dan GitHub. Repositori ini berisi skrip bash dasar untuk menghitung bunga sederhana, beserta dokumentasi pelengkap seperti lisensi, panduan kontribusi, dan kode etik.
+# Simple Interest Calculator
+This project is part of the Final Project for the Git and GitHub course. This repository contains a simple bash script to calculate simple interest, along with supporting documentation such as a license, contribution guidelines, and a code of conduct.
